@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated model artifacts (large, regenerable — keep the repo light)
+*.h5
+*.keras
+*.pkl
+
+# Generated evaluation images (optional to ignore — comment these two lines
+# out if your team wants the charts version-controlled and visible on GitHub)
+# reports/*.png
+# ml_evaluation.png
+# nn_training.png
+
+# Logs
+*.log
