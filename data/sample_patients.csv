@@ -1,0 +1,9 @@
+patient_id,symptoms,age,temperature,heart_rate,blood_pressure,expected_diagnosis
+P001,"fever;cough;fatigue;loss_of_smell",34,38.9,98,120/80,covid19
+P002,"cough;fever;headache;body_aches",45,38.2,88,118/76,flu
+P003,"fever;rash;joint_pain;headache",27,39.4,105,110/70,dengue
+P004,"chest_pain;shortness_of_breath;sweating",61,37.4,125,150/95,cardiac_event
+P005,"fatigue;frequent_urination;excessive_thirst;blurred_vision",52,37.0,80,135/85,diabetes
+P006,"cough;fever;headache",29,37.8,82,115/75,common_cold
+P007,"cough;weight_loss;night_sweats;fatigue",50,38.0,90,122/80,tuberculosis
+P008,"headache;stiff_neck;fever;light_sensitivity",22,39.7,112,105/68,meningitis
