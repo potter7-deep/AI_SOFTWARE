@@ -1,0 +1,9 @@
+disease,category,typical_urgency,contagious
+flu,viral,MEDIUM,false
+covid19,viral,HIGH,true
+dengue,viral (vector-borne),HIGH,false
+cardiac_event,cardiovascular emergency,CRITICAL,false
+diabetes,metabolic,LOW,false
+common_cold,viral,LOW,false
+tuberculosis,bacterial,HIGH,true
+meningitis,bacterial/viral emergency,CRITICAL,false
